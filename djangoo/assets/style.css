@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(157, 172, 204, 0.514);
+}
+
+
+
+#text{
+    color: rgb(133, 69, 69);
+    text-align: center;
+    
+}
+#imagee{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
